@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Féy Leaves - Digitial Garden and Cookbook
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Fèy is a mobile cookbook application that supports the palindrome as a soft, everyday encounter with the archives. 
+  My commitment to ensuring history is produced for public audiences leads me to formulate the same contemporary cultural material grafted into the palindrome into digital content that can be used for educationally, experientially, and leisurely. 
+  Fèy will include recipes and grocery lists, hands-and-pans cooking films, food history shorts by scholars and chefs, and food biography/oral history shorts by Black families
+  throughout the Atlantic world.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,13 +59,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "High ZUAN - Nyya Toussaint"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Féy is a mobile cookbook application that supports the palindrome as a soft, everyday encounter with the archives."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.lanbiakmanchet.com/nyya"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
