@@ -1,5 +1,6 @@
 ---
-title: "Libation and Legacy: Ancestral Rituals in Guadeloupe's Food Traditions"
+title: "Libation and Legacies"
+description: "Ancestral Rituals in Guadeloupe's Food Traditions"
 last_modified_at: 2025-11-16T16:20:02-05:00
 categories:
   - Blog
@@ -10,16 +11,24 @@ tags:
   - Ancestral Rituals
 ---
 
+## Ancestral Rituals in Guadeloupe's Food Traditions
 
 <img src="{{ site.baseurl }}/assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
 
-<img src="/../assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
+<!-- <img src="/../assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
+-->
+
 *the gif above and audio should play on load - may not work on all browsers*
 
-<audio autoplay loop>
+
+### Archive Audio 
+{% include embed-audio.html src="../assets/audio/guadeloupe_libation.m4a" %}
+
+<audio controls autoplay loop>
   <source src="{{ site.baseurl }}/assets/audio/guadeloupe_libation.m4a" type="audio/mpeg">
   Audio will play automatically (requires user interaction in some browsers)
 </audio>
+<!-- CTA: The version above uses liquid variable and direct path. After REMOVING the /:categories/ from the .config >> permalinks:: options, this should work fine.  Otherwise a "../../" relative structure may be needed to path correctly to file. -->
 
 > ## The tradition in Guadeloupe, when we open a new bottle of rum... 
 
