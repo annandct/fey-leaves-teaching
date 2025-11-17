@@ -1,35 +1,24 @@
-Project Title (title of research project - this may be a provisional dissertation title or
+ Project Title (title of research project - this may be a provisional dissertation title or
 concise phrase describing the research project)
-Chewed Up Resistance: Embodied Archives and Transnational Epistemologies in 20th Century
-Black Social Movements
-Project Abstract (brief description of the project and the innovative research and
-dissertation project directions you will pursue) (800 characters)
-“Chewed Up Resistance" examines how embodied archives informed social movements in the
-Black Atlantic informed by spiritualities during the 20th century. It reimagines what counts as a
-historical archive, who is authorized to create one, and how history is experienced in everyday
-life. In centering food as both material and spiritual evidence, I position the kitchen table, the
-pot, and the blood sacrifice as sites of historical revelation. The act of feeding—whether
-ancestors, community members, or oneself—becomes a form of remembrance and critique
-innovating the fields of history, political science, religious studies, and sociology.
-(795 characters)
-Broader Significance/Stakes of the Project (2000 characters)
-Your proposal will be reviewed by scholars within your specific discipline and by others from
-across the humanities and interpretive social sciences. Use this space to make a concise case
-for the significance of the project for the humanities and interpretive social sciences in a way
-that will be legible to scholars outside your field. You should refrain from employing technical
-language specific to your discipline that may make this significance unclear to non-specialists.
-Ideally, reviewers will gain a clearer understanding of the stakes of your research project after
-reading this statement.
-I reorient historical methods toward embodiment, personal narrative, and the sacred to
-respond to deficits of Black history within traditional archives. I center family history in my writing
-through self-reflection while linking such microhistories to publicly displayed sociological
-practices transnationally to reveal ties between embodied spiritualities (possession) and Black
-social movements. As a comparativist, I position the food that surrounded charismatic traditions
-as the archivable material culture of both Black spirits and humans that engaged in political
-action together.
-History, through Monique Bedasse’s “embodied archives”
-, is not confined to written
-records but includes bodies, words, gestures, tastes, and rituals. Within Black traditions, spirits
+# Chewed Up Resistance: Embodied Archives and Transnational Epistemologies in 20th Century Black Social Movements
+## Project Abstract 
+    “Chewed Up Resistance" examines how embodied archives informed social movements in the
+Black Atlantic informed by spiritualities during the 20th century. It reimagines what counts as a historical archive, who is authorized to create one, and how history is experienced in everyday life. In centering food as both material and spiritual evidence, I position the kitchen table, the pot, and the blood sacrifice as sites of historical revelation. The act of feeding—whether ancestors, community members, or oneself—becomes a form of remembrance and critique innovating the fields of history, political science, religious studies, and sociology.
+
+## Broader Significance/Stakes of the Project
+    *Your proposal will be reviewed by scholars within your specific discipline and by others from across the humanities and interpretive social sciences. Use this space to make a concise case for the significance of the project for the humanities and interpretive social sciences in a way that will be legible to scholars outside your field. You should refrain from employing technical language specific to your discipline that may make this significance unclear to non-specialists. Ideally, reviewers will gain a clearer understanding of the stakes of your research project after reading this statement.*
+
+(Nyya Toussaint) 
+- I reorient historical methods toward embodiment, personal narrative, and the sacred to respond to deficits of Black history within traditional archives. 
+- I center family history in my writing through self-reflection while linking such microhistories to publicly displayed sociological practices transnationally to reveal ties between embodied spiritualities (possession) and Black social movements. 
+
+As a comparativist...
+
+I position the food that surrounded charismatic traditions as the archivable material culture of both Black spirits and humans that engaged in political action together.
+
+History, through Monique Bedasse’s “embodied archives”, is not confined to written
+records but includes bodies, words, gestures, tastes, and rituals. 
+Within Black traditions, spirits
 are often understood as ancestors who can practice embodiment and thus, must be fed and
 engaged. To study these traditions historically, then, is to treat spirits themselves as archives
 that remember, pass down, and respond to social issues alongside/within humans. I join Fadeke

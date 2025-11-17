@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "High ZUAN - Nyya Toussaint"
+  name   : "Nyya Toussaint"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Féy is a mobile cookbook application that supports the palindrome as a soft, everyday encounter with the archives."
   links:

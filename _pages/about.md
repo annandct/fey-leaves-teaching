@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
+
+> History, is not confined to written records but includes bodies, words, gestures, tastes, and rituals.  
+    Monique Bedasse on *Embodied Rituals*
+
 # Join the Family Cookout!
 We offer a subscription service for those who want to learn and have fun. Every month we send you three elements to join our ritual. 
 ## A story...
