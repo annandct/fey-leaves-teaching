@@ -13,7 +13,7 @@ tags:
 
 ## Ancestral Rituals in Guadeloupe's Food Traditions
 
-<img src="{{ site.baseurl }}/assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
+<img src="{{ site.baseurl }}/assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:636px;" />
 
 <!-- <img src="/../assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
 -->
@@ -24,10 +24,6 @@ tags:
 ### Archive Audio 
 {% include embed-audio.html src="../assets/audio/guadeloupe_libation.m4a" %}
 
-<audio controls autoplay loop>
-  <source src="{{ site.baseurl }}/assets/audio/guadeloupe_libation.m4a" type="audio/mpeg">
-  Audio will play automatically (requires user interaction in some browsers)
-</audio>
 <!-- CTA: The version above uses liquid variable and direct path. After REMOVING the /:categories/ from the .config >> permalinks:: options, this should work fine.  Otherwise a "../../" relative structure may be needed to path correctly to file. -->
 
 > ## The tradition in Guadeloupe, when we open a new bottle of rum... 

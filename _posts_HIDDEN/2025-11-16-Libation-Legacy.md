@@ -13,21 +13,12 @@ tags:
 
 ## Ancestral Rituals in Guadeloupe's Food Traditions
 
-<img src="/../assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
-
-<!-- <img src="/../assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
--->
+<img src="../assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
 
 *the gif above and audio should play on load - may not work on all browsers*
 
-
 ### Archive Audio 
 {% include embed-audio.html src="../assets/audio/guadeloupe_libation.m4a" %}
-
-<audio controls autoplay loop>
-  <source src="../../assets/audio/guadeloupe_libation.m4a" type="audio/mpeg">
-  Audio will play automatically (requires user interaction in some browsers)
-</audio>
 
 <!-- CTA: The version above uses liquid variable and direct path. After REMOVING the /:categories/ from the .config >> permalinks:: options, this should work fine.  Otherwise a "../../" relative structure may be needed to path correctly to file. -->
 
