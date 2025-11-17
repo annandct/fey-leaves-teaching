@@ -10,9 +10,9 @@ tags:
   - Ancestral Rituals
 ---
 
-{% include embed-audio.html src="{{ site.baseurl }}/assets/audio/guadeloupe_libation.m4a" %}
+{% include embed-audio.html src="/assets/audio/guadeloupe_libation.m4a" %}
 
-<img src="{{ site.baseurl }}/assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
+<img src="/assets/gifs/guadeloupe_libation.gif" alt="Man pouring out rum" style="width:100%;max-width:400px;" />
 *the gif above and audio should play on load - may not work on all browsers*
 
 > ## The tradition in Guadeloupe, when we open a new bottle of rum... 
