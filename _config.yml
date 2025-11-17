@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: fey-leaves-teaching # the subpath of your site, e.g. /blog/
+baseurl: /fey-leaves-teaching # the subpath of your site, e.g. /blog/
 title: Féy Leaves - Digitial Garden and Cookbook
 email:
 description: >- # this means to ignore newlines until "baseurl:"
